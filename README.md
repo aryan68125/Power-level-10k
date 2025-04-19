@@ -41,4 +41,7 @@ typeset -g POWERLEVEL9K_VCS_BRANCH_ICON='\uF126 '
 # Change the value of this parameter to show a different icon.
 typeset -g POWERLEVEL9K_VCS_UNTRACKED_ICON='?'
 ```
-
+### Time taken to complete an operation panel
+```
+typeset -g POWERLEVEL9K_COMMAND_EXECUTION_TIME_BACKGROUND=107
+```
