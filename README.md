@@ -45,3 +45,17 @@ typeset -g POWERLEVEL9K_VCS_UNTRACKED_ICON='?'
 ```
 typeset -g POWERLEVEL9K_COMMAND_EXECUTION_TIME_BACKGROUND=107
 ```
+### Directory env panel 
+```
+ # Direnv color.
+ typeset -g POWERLEVEL9K_DIRENV_FOREGROUND=3
+ typeset -g POWERLEVEL9K_DIRENV_BACKGROUND=183
+ # Custom icon.
+ typeset -g POWERLEVEL9K_DIRENV_VISUAL_IDENTIFIER_EXPANSION='⭐'
+```
+
+
+
+
+
+
